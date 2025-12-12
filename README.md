@@ -37,15 +37,3 @@ This platform is focused on:
 
 ---
 
-## 🧩 Core Features
-
-✔️ Professional **Hacks & Tools collection page**  
-✔️ Card-based scalable system  
-✔️ Category filters (Gaming / Security / Social / Utility)  
-✔️ Smooth page transition animation  
-✔️ Fully responsive (Mobile / Tablet / Desktop)  
-✔️ Clean UI with hacker-style aesthetics  
-✔️ Easy future expansion (no code refactor needed)
-
----
-
